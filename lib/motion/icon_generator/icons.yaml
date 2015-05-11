@@ -1,0 +1,100 @@
+-
+  name: "iTunesConnect.png"
+  size: 1024
+  scale: 1
+
+-
+  name: "iTunesConnect.png"
+  size: 1024
+  scale: 1
+
+-
+  name: "Icon.png"
+  size: 57
+  scale: 1
+-
+  name: "Icon@2x.png"
+  size: 57
+  scale: 2
+-
+  name: "Icon@3x.png"
+  size: 57
+  scale: 3
+# ============================
+-
+  name: "Icon-Small.png"
+  size: 29
+  scale: 1
+-
+  name: "Icon-Small@2x.png"
+  size: 29
+  scale: 2
+-
+  name: "Icon-Small@3x.png"
+  size: 29
+  scale: 3
+# ============================
+-  
+  name: "Icon-Small-40.png"
+  size: 40
+  scale: 1
+-
+  name: "Icon-Small-40@2x.png"
+  size: 40
+  scale: 2
+-
+  name: "Icon-Small-40@3x.png"
+  size: 40
+  scale: 3
+# ============================
+-  
+  name: "Icon-Small-50.png"
+  size: 50
+  scale: 1
+-
+  name: "Icon-Small-50@2x.png"
+  size: 50
+  scale: 2
+-
+  name: "Icon-Small-50@3x.png"
+  size: 50
+  scale: 3
+# ============================
+-  
+  name: "Icon-60.png"
+  size: 60
+  scale: 1
+-
+  name: "Icon-60@2x.png"
+  size: 60
+  scale: 2
+-
+  name: "Icon-60@3x.png"
+  size: 60
+  scale: 3
+# ============================
+-
+  name: "Icon-72.png"
+  size: 72
+  scale: 1
+-
+  name: "Icon-72@2x.png"
+  size: 72
+  scale: 2
+-
+  name: "Icon-72@3x.png"
+  size: 72
+  scale: 3
+# ============================
+-
+  name: "Icon-76.png"
+  size: 76
+  scale: 1
+-
+  name: "Icon-76@2x.png"
+  size: 76
+  scale: 2
+-
+  name: "Icon-76@3x.png"
+  size: 76
+  scale: 3
