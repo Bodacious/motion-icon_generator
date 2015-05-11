@@ -69,5 +69,9 @@ We would really appreciate if someone could contribute the default icon sizes fo
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-By [Katana Code, web developers, mobile app developers, nice guys](http://katanacode.com/tools?utm_source=GitHub&utm_medium=README&utm_campaign=motion-icon_generator
+## Acknowledgements
+
+This was based partly on [https://github.com/spren9er/s9icongen](https://github.com/spren9er/s9icongen) by [@spren9er](https://github.com/spren9er) 
+
+By [Katana Code: web developers, mobile app developers, nice guys](http://katanacode.com/tools?utm_source=GitHub&utm_medium=README&utm_campaign=motion-icon_generator
 )
