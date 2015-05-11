@@ -1,10 +1,12 @@
-# Motion::IconGenerator
+# Icon Generator
 
 Are you tired of spending hours creating all of the different icon versions you need for your app?
 
 **Well, dry your eyes little-one**.
 
-motion-icon_generator effortlessly generates all of the iOS icon versions you'll ever need.
+**Icon Generator** effortlessly generates all of the iOS icon versions you'll ever need.
+
+Need splash images? We gots them here: https://github.com/KatanaCode/motion-splash_generator
 
 ## Installation
 
