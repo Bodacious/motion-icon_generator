@@ -28,20 +28,20 @@ Or install it yourself as:
 
     $ gem install motion-icon_generator
     
-and add it to your `Rakefile`
+and add it to your `Rakefile`:
    
     require 'motion/icon_generator'
 
 ## Usage
 
-Usage is super-easy.
+Usage is super-easy:
 
 1. Create a template icon image and save it as resources/icon-template.png. This should be about 1024x1024 pixels.
 2. run this rake task to create your icons `rake icons:generate`. After a few glorious seconds you should see a new directory filled with icons called simply "icons/"
 
 ## Configuration
 
-You can also set the following environment variables to change the default behaviour...
+You can also set the following environment variables to change the default behaviour:
 
 ### Template image name/path
 
